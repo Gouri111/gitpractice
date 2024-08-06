@@ -1,6 +1,11 @@
 git practice
+<<<<<<< HEAD
 
 git completed
 git tool
 
 devops Engineer
+=======
+git completed
+git tool
+>>>>>>> parent of f1e6160 (f1 file)
