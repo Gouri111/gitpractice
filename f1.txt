@@ -1,7 +1,6 @@
 git practice
-<<<<<<< HEAD
+
 git completed
 git tool
-=======
-devops
->>>>>>> 731c4b5470901f30a81644b5715407cb6dc0d4ae
+
+devops Engineer
